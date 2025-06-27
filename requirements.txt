@@ -1,0 +1,11 @@
+#requirements.txt
+
+torch
+torchvision
+pytorch-lightning
+albumentations
+fastapi
+uvicorn
+pytest
+flake8
+mypy
