@@ -1,0 +1,233 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "images/obstacle_2.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 2,
+      "file_name": "images/obstacle_0.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 3,
+      "file_name": "images/obstacle_1.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 4,
+      "file_name": "images/electric_vehicle_2.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 5,
+      "file_name": "images/electric_vehicle_1.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 6,
+      "file_name": "images/electric_vehicle_0.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 7,
+      "file_name": "images/ev_charging_station_2.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 8,
+      "file_name": "images/ev_charging_station_1.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 9,
+      "file_name": "images/ev_charging_station_0.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 10,
+      "file_name": "images/background_0.jpg",
+      "width": 200.0,
+      "height": 200.0
+    },
+    {
+      "id": 11,
+      "file_name": "images/background_1.jpg",
+      "width": 200.0,
+      "height": 200.0
+    }
+  ],
+  "annotations": [
+    {
+      "category_id": 3,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 1,
+      "image_id": 1
+    },
+    {
+      "category_id": 3,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 2,
+      "image_id": 2
+    },
+    {
+      "category_id": 3,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 3,
+      "image_id": 3
+    },
+    {
+      "category_id": 2,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 4,
+      "image_id": 4
+    },
+    {
+      "category_id": 2,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 5,
+      "image_id": 5
+    },
+    {
+      "category_id": 2,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 6,
+      "image_id": 6
+    },
+    {
+      "category_id": 1,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 7,
+      "image_id": 7
+    },
+    {
+      "category_id": 1,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 8,
+      "image_id": 8
+    },
+    {
+      "category_id": 1,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 9,
+      "image_id": 9
+    },
+    {
+      "category_id": 0,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 10,
+      "image_id": 10
+    },
+    {
+      "category_id": 0,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 11,
+      "image_id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background"
+    },
+    {
+      "id": 1,
+      "name": "ev_charging_station"
+    },
+    {
+      "id": 2,
+      "name": "electric_vehicle"
+    },
+    {
+      "id": 3,
+      "name": "obstacle"
+    }
+  ]
+}
