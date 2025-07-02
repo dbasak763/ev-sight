@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "id": 12,
+      "file_name": "images/background_2.jpg",
+      "width": 200.0,
+      "height": 200.0
+    }
+  ],
+  "annotations": [
+    {
+      "category_id": 0,
+      "bbox": [
+        100.0,
+        100.0,
+        200.0,
+        200.0
+      ],
+      "area": 40000.0,
+      "iscrowd": 0,
+      "id": 12,
+      "image_id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background"
+    },
+    {
+      "id": 1,
+      "name": "ev_charging_station"
+    },
+    {
+      "id": 2,
+      "name": "electric_vehicle"
+    },
+    {
+      "id": 3,
+      "name": "obstacle"
+    }
+  ]
+}
