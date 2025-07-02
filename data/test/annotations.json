@@ -1,0 +1,22 @@
+{
+  "images": [],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background"
+    },
+    {
+      "id": 1,
+      "name": "ev_charging_station"
+    },
+    {
+      "id": 2,
+      "name": "electric_vehicle"
+    },
+    {
+      "id": 3,
+      "name": "obstacle"
+    }
+  ]
+}
